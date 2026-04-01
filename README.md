@@ -22,4 +22,6 @@ An AI-powered academic answer evaluation system that analyzes student responses 
   * Concept Understanding
   * Precision / Recall / F1
 * 🎯 Final weighted score calculation
- Running on public URL:(https://ai-evaluator-5.onrender.com)
+ Running on public URL:(https://ai-evaluator-1-xg8v.onrender.com)
+
+
