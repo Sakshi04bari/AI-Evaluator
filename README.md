@@ -22,4 +22,4 @@ An AI-powered academic answer evaluation system that analyzes student responses 
   * Concept Understanding
   * Precision / Recall / F1
 * 🎯 Final weighted score calculation
- Running on public URL:(https://0f1d7fc76d1e9b4bd2.gradio.live)
+ Running on public URL:(https://huggingface.co/spaces/Sakshibari10/Ai-evaluator)
